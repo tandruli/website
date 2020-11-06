@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tanner Andrulis",
+    "description": "",
+    "home_page_url": "https://tandruli.github.io/website",
+    "feed_url": "https://tandruli.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tanner Andrulis"
+    },
+    "items": [
+    ]
+}
